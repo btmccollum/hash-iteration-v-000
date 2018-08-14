@@ -7,5 +7,9 @@
 # }
 
 def select_winner(passengers)
+  winner = ""
+  passengers.each do |key, value|
+    winner = name
+  end
   # add the code snippet here!
 end
